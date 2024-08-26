@@ -1,0 +1,13 @@
+Emp_ID,Name,Age,Gender,Salary,Department,Joining_Date
+E01,John Doe,29,Male,50000,IT,15-01-2020
+E02,Jane Smith,35,Female,,HR,22-03-2018
+E03,Emily Davis,28,Female,,IT,09-07-2019
+E04,Michael Brown,40,Male,80000,Finance,
+E05,Jessica Wilson,32,Female,55000,HR,05-02-2021
+E06,David Lee,,Male,,IT,13-09-2020
+E07,Laura White,27,Female,48000,Finance,20-01-2021
+E08,Chris Green,,Male,71000,IT,11-11-2019
+E09,Sarah King,38,Female,,HR,14-08-2017
+E10,James Taylor,45,Male,90000,Finance,30-05-2016
+E03,Emily Davis,28,,62000,IT,09-07-2019
+E05,Jessica Wilson,32,Female,55000,,05-02-2021
